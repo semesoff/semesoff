@@ -49,4 +49,4 @@
 
 ## 📫 Контакты:
 - Email: entertoofficial@gmail.com
-- Telegram: t.me/page_off
+- Telegram: [t.me/page_off](t.me/page_off)
